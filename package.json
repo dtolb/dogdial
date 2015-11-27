@@ -1,0 +1,24 @@
+{
+  "name": "dogdial",
+  "version": "0.0.1",
+  "description": "Better Phone Number for your Dogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtolb/dogdial.git"
+  },
+  "keywords": [
+    "dog",
+    "catapult",
+    "bandwidth"
+  ],
+  "author": "Dan Tolbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtolb/dogdial/issues"
+  },
+  "homepage": "https://github.com/dtolb/dogdial#readme"
+}
