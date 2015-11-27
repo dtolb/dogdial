@@ -8,7 +8,7 @@ Each user can have multiple pets (dogs) each has it's own phone number.
 
 Each pet can have a personalized greeting with medical information, demeanor, and whatever else
 
-![New User](https://github.com/dtolb/dogdial/blob/master/readme-images/Dog-Dial-new-user.png)
+![New User](https://github.com/dtolb/dogdial/blob/master/readme-images/Dog-Dial-new-user.png?raw=true)
 
 ## Call Flow
 ![Call Flow](https://github.com/dtolb/dogdial/blob/master/readme-images/Call-flow.png?raw=true)
